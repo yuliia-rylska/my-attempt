@@ -1,1 +1,4 @@
 # my-attempt
+.idea
+.vscode
+
